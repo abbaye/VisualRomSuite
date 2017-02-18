@@ -63,3 +63,24 @@ C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\AxInterop.p
 C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\VRS.IDE.csproj.ResolveComReference.cache
 C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\Visual Rom Suite.exe
 C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\Visual Rom Suite.pdb
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\bin\Debug\Visual Rom Suite.exe
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\bin\Debug\Visual Rom Suite.pdb
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\bin\Debug\MagicLocalLibrary.dll
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\bin\Debug\SandBar.dll
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\bin\Debug\VRS.UI.dll
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\bin\Debug\MagicLocalLibrary.pdb
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\bin\Debug\VRS.UI.pdb
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\bin\Debug\Interop.CodeMax.dll
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\bin\Debug\Interop.prjVbHex.dll
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\bin\Debug\AxInterop.CodeMax.dll
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\bin\Debug\AxInterop.prjVbHex.dll
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\VRS.IDE.csprojResolveAssemblyReference.cache
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormBookMarkManager.resources
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormBuildOptions.resources
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormExternalTools.resources
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormMain.resources
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormNouveauProjet.resources
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormOptions.resources
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\VRS.IDE.frmTest.resources
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\VRS.IDE.Resource.Strings.resources
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\VRS.IDE.csproj.GenerateResource.Cache

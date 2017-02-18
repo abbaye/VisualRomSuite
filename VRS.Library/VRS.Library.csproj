@@ -108,6 +108,14 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AxInterop.CodeMax, Version=2.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\VRS.IDE\obj\Debug\AxInterop.CodeMax.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.prjVbHex, Version=39.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\VRS.IDE\obj\Debug\AxInterop.prjVbHex.dll</HintPath>
+    </Reference>
     <Reference Include="System">
       <Name>System</Name>
     </Reference>
@@ -126,6 +134,15 @@
     <Reference Include="System.Xml">
       <Name>System.XML</Name>
     </Reference>
+    <COMReference Include="CodeMax">
+      <Guid>{ECEDB943-AC41-11D2-AB20-000000000000}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
     <COMReference Include="stdole">
       <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
       <VersionMajor>2</VersionMajor>
