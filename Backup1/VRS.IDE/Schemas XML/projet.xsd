@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<xs:schema id="NewDataSet" targetNamespace="http://tempuri.org/FF2.xsd" xmlns:mstns="http://tempuri.org/FF2.xsd" xmlns="http://tempuri.org/FF2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="VisualRomSuiteProject">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="VRSProj" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Include" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="TextFile" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="File" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:attribute name="RelativePath" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Type" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Extraction_TextBank_Start" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Extraction_TextBank_Stop" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Extraction_PointeurBank_Start" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Extraction_PointeurBank_Stop" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Extraction_HeaderAdjustement_Plus" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Extraction_HeaderAdjustement_Moins" form="unqualified" type="xs:string" />
+                              <xs:attribute name="insertion_TextBankStart" form="unqualified" type="xs:string" />
+                              <xs:attribute name="insertion_TextBankStop" form="unqualified" type="xs:string" />
+                              <xs:attribute name="insertion_PointeurBankStart" form="unqualified" type="xs:string" />
+                              <xs:attribute name="insertion_PointeurBankStop" form="unqualified" type="xs:string" />
+                              <xs:attribute name="insertion_HeaderAdjustementPlus" form="unqualified" type="xs:string" />
+                              <xs:attribute name="insertion_HeaderAdjustementMoins" form="unqualified" type="xs:string" />
+                              <xs:attribute name="AucunPointeur" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Description" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Name" form="unqualified" type="xs:string" />
+                              <xs:attribute name="InsertAtCompil" form="unqualified" type="xs:string" />
+                              <xs:attribute name="TablePath" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Mode" form="unqualified" type="xs:string" />
+                              <xs:attribute name="isTextPointeurTable" form="unqualified" type="xs:string" />
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="Count" form="unqualified" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="HexaSnapShot" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="SnapShot" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:attribute name="Name" form="unqualified" type="xs:string" />
+                              <xs:attribute name="RelativePath" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Description" form="unqualified" type="xs:string" />
+                              <xs:attribute name="StartPosition" form="unqualified" type="xs:string" />
+                              <xs:attribute name="InsertAtCompil" form="unqualified" type="xs:string" />
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="Count" form="unqualified" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="TableFile" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="TBL" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:attribute name="Type" form="unqualified" type="xs:string" />
+                              <xs:attribute name="RelativePath" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Description" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Name" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Default" form="unqualified" type="xs:string" />
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="Count" form="unqualified" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="TableauFixe" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Fixe" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:attribute name="TableName" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Largeur" form="unqualified" type="xs:string" />
+                              <xs:attribute name="TotalCase" form="unqualified" type="xs:string" />
+                              <xs:attribute name="EmptyChar" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Position" form="unqualified" type="xs:string" />
+                              <xs:attribute name="TableauName" form="unqualified" type="xs:string" />
+                              <xs:attribute name="Description" form="unqualified" type="xs:string" />
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="Count" form="unqualified" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="BookMark" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Mark" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="Name" form="unqualified" type="xs:string" />
+                        <xs:attribute name="Position" form="unqualified" type="xs:string" />
+                        <xs:attribute name="File" form="unqualified" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="Count" form="unqualified" type="xs:string" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="TaskList" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Task" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:attribute name="Line" form="unqualified" type="xs:string" />
+                        <xs:attribute name="File" form="unqualified" type="xs:string" />
+                        <xs:attribute name="Description" form="unqualified" type="xs:string" />
+                        <xs:attribute name="Priority" form="unqualified" type="xs:string" />
+                        <xs:attribute name="TaskComplete" form="unqualified" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="Count" form="unqualified" type="xs:string" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="Author" form="unqualified" type="xs:string" />
+            <xs:attribute name="Description" form="unqualified" type="xs:string" />
+            <xs:attribute name="MD5Key" form="unqualified" type="xs:string" />
+            <xs:attribute name="Name" form="unqualified" type="xs:string" />
+            <xs:attribute name="OutputPath" form="unqualified" type="xs:string" />
+            <xs:attribute name="Email" form="unqualified" type="xs:string" />
+            <xs:attribute name="RLECompress" form="unqualified" type="xs:string" />
+            <xs:attribute name="HomePage" form="unqualified" type="xs:string" />
+            <xs:attribute name="RomFile" form="unqualified" type="xs:string" />
+            <xs:attribute name="WorkRomFile" form="unqualified" type="xs:string" />
+            <xs:attribute name="ProjectType" form="unqualified" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="Version" form="unqualified" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:Locale="fr-CA" msdata:EnforceConstraints="False">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element ref="VisualRomSuiteProject" />
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

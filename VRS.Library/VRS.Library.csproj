@@ -37,21 +37,6 @@
     </SccProvider>
     <OldToolsVersion>3.5</OldToolsVersion>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <PublishUrl>publier\</PublishUrl>
-    <Install>true</Install>
-    <InstallFrom>Disk</InstallFrom>
-    <UpdateEnabled>false</UpdateEnabled>
-    <UpdateMode>Foreground</UpdateMode>
-    <UpdateInterval>7</UpdateInterval>
-    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
-    <UpdatePeriodically>false</UpdatePeriodically>
-    <UpdateRequired>false</UpdateRequired>
-    <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>0</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
-    <UseApplicationTrust>false</UseApplicationTrust>
-    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <OutputPath>bin\Debug\</OutputPath>
@@ -284,7 +269,9 @@
     <Compile Include="UserControl\TextControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserControl\TextEditor.cs" />
+    <Compile Include="UserControl\TextEditor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="UserControl\TextExtractor\TextExtractor.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -360,13 +347,6 @@
     <EmbeddedResource Include="UserControl\TextExtractor\TextExtractor_PageGeneral.resx">
       <DependentUpon>TextExtractor_PageGeneral.cs</DependentUpon>
     </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
-      <Visible>False</Visible>
-      <ProductName>.NET Framework 3.5 SP1</ProductName>
-      <Install>true</Install>
-    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
