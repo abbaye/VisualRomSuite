@@ -2,6 +2,8 @@
 
 ROM Reverse engineering (Super Nes for now)
 
+ATTENTION!!  REGISTER VB6 OCX FILE BEFORE COMPILE.
 
-![example](VRSThingySample.png?raw=true)
+
+![example](VRSSample.png?raw=true)
 
