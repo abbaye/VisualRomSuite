@@ -1,0 +1,56 @@
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.csproj.ResolveComReference.cache
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\Visual Rom Suite.exe
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\Visual Rom Suite.pdb
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\Visual Rom Suite.exe
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\Visual Rom Suite.pdb
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\MagicLocalLibrary.dll
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\SandBar.dll
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\VRS.Library.dll
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\VRS.UI.dll
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\AxInterop.CodeMax.dll
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\Interop.CodeMax.dll
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\Interop.prjVbHex.dll
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\AxInterop.prjVbHex.dll
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\VRS.UI.pdb
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\VRS.Library.pdb
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\MagicLocalLibrary.pdb
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\ResolveAssemblyReference.cache
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormBookMarkManager.resources
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormBuildOptions.resources
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormExternalTools.resources
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormMain.resources
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormNouveauProjet.resources
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormOptions.resources
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.frmTest.resources
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Resource.Strings.resources
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.csproj.GenerateResource.Cache
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\Interop.prjVbHex.dll
+Z:\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\AxInterop.prjVbHex.dll
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.csproj.ResolveComReference.cache
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\Visual Rom Suite.exe
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\Visual Rom Suite.pdb
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\Visual Rom Suite.exe
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\Visual Rom Suite.pdb
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\MagicLocalLibrary.dll
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\SandBar.dll
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\VRS.Library.dll
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\VRS.UI.dll
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\MagicLocalLibrary.pdb
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\VRS.Library.pdb
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\VRS.UI.pdb
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.csprojResolveAssemblyReference.cache
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormBookMarkManager.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormBuildOptions.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormExternalTools.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormMain.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormNouveauProjet.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Forms.FormOptions.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.frmTest.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.Resource.Strings.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\obj\Debug\VRS.IDE.csproj.GenerateResource.Cache
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite - Copie\VRS.IDE\obj\Debug\VRS.IDE.csproj.ResolveComReference.cache
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite - Copie\VRS.IDE\obj\Debug\Visual Rom Suite.exe
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite - Copie\VRS.IDE\obj\Debug\Visual Rom Suite.pdb
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\VRS.IDE.csproj.ResolveComReference.cache
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\Visual Rom Suite.exe
+C:\Users\Propriétaire\Source\Repos\VisualRomSuite\VRS.IDE\obj\Debug\Visual Rom Suite.pdb

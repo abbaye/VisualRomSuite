@@ -1,0 +1,11 @@
+LIBRARY      "UHRCore.DLL"
+
+EXPORTS
+	ExtractionSimplePointeur
+	InsertionSimplePointeur
+	TrouverDTE
+	RepairGBArom
+	convert
+	MakePatch
+	byteswap
+	GiveCRC32

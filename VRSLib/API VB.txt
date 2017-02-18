@@ -1,0 +1,46 @@
+Public Declare Sub ExtractionSimplePointeur Lib "UHRExt" (ByVal TypeExtraction As Long, _
+                                                          ByVal PathTBL As String, _
+                                                          ByVal PathROM As String, _
+                                                          ByVal PathTEXTE As String, _
+                                                          ByVal TexteD As Long, _
+                                                          ByVal TexteF As Long, _
+                                                          ByVal PointeurD As Long, _
+                                                          ByVal PointeurF As Long, _
+                                                          ByVal AjustementMoin As Long, _
+                                                          ByVal AjustementPlus As Long)
+'Insertion simple
+Public Declare Function InsertionSimplePointeur Lib "UHRExt" (ByVal TypeExtraction As Long, _
+                                                         ByVal PathTBL As String, _
+                                                         ByVal PathROM As String, _
+                                                         ByVal PathTEXTE As String, _
+                                                         ByVal TexteD As Long, _
+                                                         ByVal TexteF As Long, _
+                                                         ByVal PointeurD As Long, _
+                                                         ByVal PointeurF As Long, _
+                                                         ByVal AjustementPlus As Long, _
+                                                         ByVal AjustementMoin As Long) As Long
+'Optimisation des DTE/MTE
+Public Declare Function TrouverDTE Lib "UHRExt" (ByVal CheminFichierSource As String, _
+                                                 ByVal CheminResultat As String, _
+                                                 ByVal GrosseurDTE As Long) As Long
+
+'Compilation de Patch IPS
+Public Declare Function MakePatch Lib "UHRExt" (ByVal UnchangedFile As String, _
+                                                ByVal ChangedFile As String, _
+                                                ByVal OutputFile As String, _
+                                                ByVal ErrorMsg As String, _
+                                                bUseRle As Boolean) As Boolean
+
+'Convertion de Rom Utilisant les extentions de fichier .1 .2 .3 ...
+Public Declare Function Convert Lib "UHRExt" (ByVal File As String, _
+                                              sizeheader As Long) As Integer
+
+'Reparation des Rom Game Boy Advance
+Public Declare Function RepairGBArom Lib "UHRExt" (ByVal sfile As String) As Long
+
+'Replace byte dans la Byteswap
+Public Declare Sub byteswap Lib "UHRExt" (ByVal sfile_in As String, _
+										  ByVal sfile_out As String)
+																					
+'Done le CRC d'un fichier
+Public Declare Function GiveCRC32 Lib "UHRExt" (ByVal filename As String) As Long																					

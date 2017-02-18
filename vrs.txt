@@ -1,0 +1,16 @@
+* le codage semble être en style MS-DOS quand il n'y a pas de table  chargée (avec les petits dessins)
+
+* il serait bien de pouvoitr choisir entre affichage en décimal et hexa pour la position.
+* si je place une fenêtre devant et que je revais dans vrs, le contenu de l'éditeur ne se rafraîchit pas. ca peut paraître trivial, mais à la longue c'est énervant d'avoir à cliquer sur rafraîchir à chaque fois.
+
+* avoir une option pour afficher en couleurs les DTE
+* afficher des infobulles explicatives
+* dans l'explorateur de projets, si je double clique sur la table, j'ai un gros bug. ça serait bien d'ouvrir l'éditeur de table
+* bon, j'ai trouvé comment faire une recherche. ça ne me paraît pas très intuitif de ne pouvoir y accéder que depuis l'explorateur de projets alors qu'on a l'éditeur hexa juste en dessous. donc prévois d'ajouter un bouton sur l'éditeur hexa qui permette de lancer la recherche.
+
+* dans la recherche, on ne peut choisir si on utilise ou non les DTE (ça, c'est très important ^^). de la même façon, comment chercher des codes, ou du texte mêlé à des codes?
+
+* on ne peut pas encore faire de recherche relative (en tout cas, j'ai pas encore vu)
+dans les résultats de la recherche, ça serait bien de pouvoir aller directement à cette position dans l'éditeur hexa en cliquant sur le résultat.
+* pouvoir supprimer de la liste des résultats non intéressants serait pratique
+

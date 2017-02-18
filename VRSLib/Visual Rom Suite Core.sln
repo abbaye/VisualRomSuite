@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VRScore", "UHREXTINS.vcproj", "{A7B792D5-E60D-4A3C-8024-0635955A0F26}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = \u0022$/Visual\u0020Rom\u0020Suite\u0020Core\u0022,\u0020GEAAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SolutionUniqueID = {C9C81D2D-E41C-4677-A7C3-B058181E2D11}
+		SccProjectUniqueName1 = UHREXTINS.vcproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A7B792D5-E60D-4A3C-8024-0635955A0F26}.Debug.ActiveCfg = Debug|Win32
+		{A7B792D5-E60D-4A3C-8024-0635955A0F26}.Debug.Build.0 = Debug|Win32
+		{A7B792D5-E60D-4A3C-8024-0635955A0F26}.Release.ActiveCfg = Release|Win32
+		{A7B792D5-E60D-4A3C-8024-0635955A0F26}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

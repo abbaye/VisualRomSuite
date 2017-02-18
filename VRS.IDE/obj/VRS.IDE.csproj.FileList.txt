@@ -1,0 +1,33 @@
+obj\Debug\Visual Rom Suite.exe
+obj\Debug\Visual Rom Suite.pdb
+bin\Debug\Visual Rom Suite.exe
+bin\Debug\Visual Rom Suite.pdb
+bin\Debug\MagicLocalLibrary.dll
+bin\Debug\SandBar.dll
+bin\Debug\VRS.Library.dll
+bin\Debug\VRS.UI.dll
+bin\Debug\AxInterop.CodeMax.dll
+bin\Debug\Interop.CodeMax.dll
+bin\Debug\Interop.prjVbHex.dll
+bin\Debug\AxInterop.prjVbHex.dll
+bin\Debug\VRS.UI.pdb
+bin\Debug\MagicLocalLibrary.pdb
+bin\Debug\VRS.Library.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VRS.IDE.csproj.ResolveComReference.cache
+obj\Debug\VRS.IDE.Resource.Config.xml
+obj\Debug\VRS.IDE.Forms.FormBookMarkManager.resources
+obj\Debug\VRS.IDE.Forms.FormBuildOptions.resources
+obj\Debug\VRS.IDE.Forms.FormExternalTools.resources
+obj\Debug\VRS.IDE.Forms.FormMain.resources
+obj\Debug\VRS.IDE.Forms.FormNouveauProjet.resources
+obj\Debug\VRS.IDE.Forms.FormOptions.resources
+obj\Debug\VRS.IDE.frmTest.resources
+obj\Debug\VRS.IDE.Resource.Strings.resources
+obj\Debug\VRS.IDE.csproj.GenerateResource.Cache
+bin\Debug\Interop.AcrobatAccessLib.dll
+obj\Debug\Interop.AcrobatAccessLib.dll
+obj\Debug\Interop.CodeMax.dll
+obj\Debug\Interop.prjVbHex.dll
+obj\Debug\AxInterop.CodeMax.dll
+obj\Debug\AxInterop.prjVbHex.dll

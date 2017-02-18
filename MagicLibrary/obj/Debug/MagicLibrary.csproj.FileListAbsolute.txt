@@ -1,0 +1,45 @@
+Z:\Programmation\Bin\MagicLocalLibrary.dll
+Z:\Programmation\Bin\MagicLocalLibrary.pdb
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\ResolveAssemblyReference.cache
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.BorderForControl.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.InertButton.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.ResizeBar.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.TabbedGroups.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.TabControl.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.TabPage.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.WizardControl.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.WizardPage.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Docking.AutoHidePanel.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Docking.FloatingForm.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Docking.Window.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Docking.WindowDetail.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Docking.WindowDetailCaption.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Docking.Zone.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Forms.WizardDialog.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Menus.MenuCommand.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Menus.MenuControl.resources
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\MagicLibrary.csproj.GenerateResource.Cache
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\MagicLocalLibrary.dll
+Z:\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\MagicLocalLibrary.pdb
+C:\Users\Propriétaire\Documents\Programmation\Bin\MagicLocalLibrary.dll
+C:\Users\Propriétaire\Documents\Programmation\Bin\MagicLocalLibrary.pdb
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.BorderForControl.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.InertButton.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.ResizeBar.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.TabbedGroups.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.TabControl.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.TabPage.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.WizardControl.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Controls.WizardPage.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Docking.AutoHidePanel.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Docking.FloatingForm.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Docking.Window.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Docking.WindowDetail.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Docking.WindowDetailCaption.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Docking.Zone.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Forms.WizardDialog.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Menus.MenuCommand.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\Crownwood.Magic.Menus.MenuControl.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\MagicLibrary.csproj.GenerateResource.Cache
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\MagicLocalLibrary.dll
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\MagicLibrary\obj\Debug\MagicLocalLibrary.pdb

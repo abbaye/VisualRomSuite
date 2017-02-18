@@ -1,0 +1,14 @@
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\VRSThingy.exe
+Z:\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\VRSThingy.pdb
+Z:\Programmation\Visual Rom Suite\VRSThingy\obj\Debug\ResolveAssemblyReference.cache
+Z:\Programmation\Visual Rom Suite\VRSThingy\obj\Debug\VRSThingy.Form1.resources
+Z:\Programmation\Visual Rom Suite\VRSThingy\obj\Debug\VRSThingy.csproj.GenerateResource.Cache
+Z:\Programmation\Visual Rom Suite\VRSThingy\obj\Debug\VRSThingy.exe
+Z:\Programmation\Visual Rom Suite\VRSThingy\obj\Debug\VRSThingy.pdb
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\VRSThingy.exe
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRS.IDE\bin\Debug\VRSThingy.pdb
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRSThingy\obj\Debug\VRSThingy.csprojResolveAssemblyReference.cache
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRSThingy\obj\Debug\VRSThingy.Form1.resources
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRSThingy\obj\Debug\VRSThingy.csproj.GenerateResource.Cache
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRSThingy\obj\Debug\VRSThingy.exe
+C:\Users\Propriétaire\Documents\Programmation\Visual Rom Suite\VRSThingy\obj\Debug\VRSThingy.pdb

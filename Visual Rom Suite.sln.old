@@ -1,0 +1,70 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRS.IDE", "VRS.IDE\VRS.IDE.csproj", "{0D328D2C-D4F7-483E-81EE-5AD6D20EF486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRS.Library", "VRS.Library\VRS.Library.csproj", "{AAA2C537-A3E5-4E2C-A733-077A658F950E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicLibrary", "MagicLibrary\MagicLibrary.csproj", "{92F94EA0-9910-4895-B8A1-FED1543A9DA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRS.UI", "VRS.UI\VRS.UI.csproj", "{F4D46B69-C677-4465-9C41-A6235063EDD7}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 5
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {6B283675-B380-47BA-AA00-8FEDD0F0E4D8}
+		SccProjectUniqueName1 = MagicLibrary\\MagicLibrary.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection1 = MagicLibrary\\
+		SccProjectUniqueName2 = VRS.IDE\\VRS.IDE.csproj
+		SccLocalPath2 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection2 = VRS.IDE\\
+		SccProjectUniqueName3 = VRS.Library\\VRS.Library.csproj
+		SccLocalPath3 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection3 = VRS.Library\\
+		SccProjectUniqueName4 = VRS.UI\\VRS.UI.csproj
+		SccLocalPath4 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection4 = VRS.UI\\
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+		ConfigName.2 = StrongMagic
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0D328D2C-D4F7-483E-81EE-5AD6D20EF486}.Debug.ActiveCfg = Debug|.NET
+		{0D328D2C-D4F7-483E-81EE-5AD6D20EF486}.Debug.Build.0 = Debug|.NET
+		{0D328D2C-D4F7-483E-81EE-5AD6D20EF486}.Release.ActiveCfg = Release|.NET
+		{0D328D2C-D4F7-483E-81EE-5AD6D20EF486}.Release.Build.0 = Release|.NET
+		{0D328D2C-D4F7-483E-81EE-5AD6D20EF486}.StrongMagic.ActiveCfg = Release|.NET
+		{0D328D2C-D4F7-483E-81EE-5AD6D20EF486}.StrongMagic.Build.0 = Release|.NET
+		{AAA2C537-A3E5-4E2C-A733-077A658F950E}.Debug.ActiveCfg = Debug|.NET
+		{AAA2C537-A3E5-4E2C-A733-077A658F950E}.Debug.Build.0 = Debug|.NET
+		{AAA2C537-A3E5-4E2C-A733-077A658F950E}.Release.ActiveCfg = Release|.NET
+		{AAA2C537-A3E5-4E2C-A733-077A658F950E}.Release.Build.0 = Release|.NET
+		{AAA2C537-A3E5-4E2C-A733-077A658F950E}.StrongMagic.ActiveCfg = Release|.NET
+		{AAA2C537-A3E5-4E2C-A733-077A658F950E}.StrongMagic.Build.0 = Release|.NET
+		{92F94EA0-9910-4895-B8A1-FED1543A9DA1}.Debug.ActiveCfg = Debug|.NET
+		{92F94EA0-9910-4895-B8A1-FED1543A9DA1}.Debug.Build.0 = Debug|.NET
+		{92F94EA0-9910-4895-B8A1-FED1543A9DA1}.Release.ActiveCfg = Release|.NET
+		{92F94EA0-9910-4895-B8A1-FED1543A9DA1}.Release.Build.0 = Release|.NET
+		{92F94EA0-9910-4895-B8A1-FED1543A9DA1}.StrongMagic.ActiveCfg = StrongMagic|.NET
+		{92F94EA0-9910-4895-B8A1-FED1543A9DA1}.StrongMagic.Build.0 = StrongMagic|.NET
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.Debug.ActiveCfg = Debug|.NET
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.Debug.Build.0 = Debug|.NET
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.Release.ActiveCfg = Release|.NET
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.Release.Build.0 = Release|.NET
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.StrongMagic.ActiveCfg = Release|.NET
+		{F4D46B69-C677-4465-9C41-A6235063EDD7}.StrongMagic.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
