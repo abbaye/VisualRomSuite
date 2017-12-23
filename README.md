@@ -2,7 +2,7 @@
 
 This a Nintendo SNES ROM Reverse engineering tool developped when i'am teen. At this time my nickname as Khenshin. This project never released as open source but now you can make all you want with :) 
 
-It's not perfect and I think I will be restart my work on it for fun.
+It's not perfect and I think I will be restart my work on new new WPF/C# project.
 
 A few colaborators help me ago like :
 - Meradrin
