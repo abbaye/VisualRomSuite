@@ -1,4 +1,4 @@
-# Visual Rom Suite (VRS) aka Ultimte Rom Hacking (URH)
+# Visual Rom Suite (VRS) aka Ultimate Rom Hacking (URH)
 
 This a Nintendo SNES ROM Reverse engineering tool developped when i'am teen. At this time my nickname as Khenshin. This project never released as open source but now you can make all you want with :) 
 
